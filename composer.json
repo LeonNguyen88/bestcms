@@ -1,0 +1,20 @@
+{
+    "name": "godman/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    },
+
+    "autoload": {
+
+        "classmap": [
+            "classes"
+        ]
+    },
+
+    "authors": [
+        {
+            "name": "edwin",
+            "email": "17edwin.tvt@gmail.com"
+        }
+    ]
+}
